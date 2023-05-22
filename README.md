@@ -12,7 +12,6 @@ This is an Image Classification Project. Image is classified in 10 categories on
 Here, I use keras inbuilt image_dataset_from_directory to convert image data into numpy array with labels.
 
 Model trained is given in the notebook. Training and Validation Accuracy and loss given below-
-
 <img width="340" alt="image" src="https://github.com/Nishant-Kumar-2002/Distracted-Driver-Detection/assets/89921898/17fca246-cf39-4244-91cc-e4bbf4f3dbbd">
 
 
