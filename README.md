@@ -16,6 +16,7 @@ Model trained is given in the notebook. Training and Validation Accuracy and los
 
 
 <img width="465" alt="image" src="https://github.com/Nishant-Kumar-2002/Distracted-Driver-Detection/assets/89921898/ad18952e-6075-4e7f-a506-ffd3c4bfb345">
+
 Here are some of the predicted outputs.
 
 Thank You.
