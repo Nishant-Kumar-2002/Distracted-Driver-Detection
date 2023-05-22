@@ -20,6 +20,7 @@ Model trained is given in the notebook. Training and Validation Accuracy and los
 Here are some of the predicted outputs.
 
 Link to my Notebook below.
+
 https://www.kaggle.com/code/nishantkumar21092002/distracted-driver-detection
 
 Thank You.
