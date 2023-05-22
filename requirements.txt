@@ -1,0 +1,9 @@
+# Usage: pip install -r requirements.txt
+
+numpy
+pandas
+os
+cv2
+matplotlib
+tensorflow 
+
